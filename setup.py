@@ -8,7 +8,7 @@ setup(
     description='A library for SSD1306 OLED displays with I2C',
     long_description=open('README.md').read(),
     long_description_content_type='text/markdown',
-    author='Your Name',
+    author='Luce',
     url='https://github.com/LuceZi/Luce_ssd1306',
     classifiers=[
         'Programming Language :: Python :: 3',
