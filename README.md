@@ -29,7 +29,6 @@ pip install smbus2
 1. 複製本專案代碼:
     ```bash
     git clone https://github.com/LuceZi/Luce_ssd1306.git
-    cd ssd1306-python-library
     ```
 2. 確保安裝依賴環境:
     ```bash
