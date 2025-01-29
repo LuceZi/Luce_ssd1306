@@ -1,7 +1,7 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='SSD1306',
+    name='Luce-SSD1306',
     version='0.1.0',
     packages=find_packages(),
     install_requires=['smbus2', 'Pillow'],
